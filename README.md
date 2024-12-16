@@ -1,8 +1,6 @@
-## Домашняя работа 27.2.
-- Описан Dockerfile для запуска контейнера с проектом.
-- Создан Docker Compose Django-проект с БД PostgreSQL.
-- Добавлен в docker-compose.yaml работу с Redis.
-- Добавлен в docker-compose.yaml работу с Celery.
+## Курсовая работа 8
+- За основу взята Курсовая работа 7.
+- Создан Docker Compose для сервисов: Django, PostrgeSQL, Redis, Celery.
 - Работа проверена с помощью Postman и в браузере.
 
 ### Основные приложения
@@ -18,12 +16,12 @@
 
 #### Клонирование проекта:
 ```
-git clone https://github.com/AidarPutilov/kurs7.git
+git clone https://github.com/AidarPutilov/kurs8.git
 ```
 
 #### Переход в каталог
 ```
-cd kurs7
+cd kurs8
 ```
 
 #### Базовые настройки
